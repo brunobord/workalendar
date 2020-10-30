@@ -1,5 +1,8 @@
 # Advanced feature: class options
 
+[Home](index.md) / [Basic usage](basic.md) / [Advanced usage](advanced.md) / [ISO Registry](iso-registry.md) / [iCal Export](ical.md) / [Contributing](contributing.md)
+
+
 As of `v<VERSION NUMBER>` you can define *options* for your calendar.
 
 ## Options as "flags"
@@ -101,3 +104,5 @@ If you only have a couple of exceptions to your rules, you may prefer ot have a 
 **Beware!** Options are nice and will help you in many cases, but it's probably a bad idea to go on and add dozens of them to your class constructor. As a consequence, your runtime code would be more and more complex. You'd have hard time covering all of the combinations around their values and test them.
 
 As in many other cases, your mileage may vary, but I doubt that you want to combine more than 5 of them.
+
+[Home](index.md) / [Basic usage](basic.md) / [Advanced usage](advanced.md) / [ISO Registry](iso-registry.md) / [iCal Export](ical.md) / [Contributing](contributing.md)
