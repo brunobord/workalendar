@@ -16,6 +16,7 @@ See [the repository README](https://github.com/peopledoc/workalendar#available-c
 
 * [Basic usage](basic.md)
 * [Advanced usage](advanced.md)
+* [Advanced feature: class options](class-options.md)
 * [ISO Registry](iso-registry.md)
 * [iCal Export](ical.md)
 * [How to contribute](contributing.md)
